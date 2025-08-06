@@ -1,6 +1,6 @@
 # Project 2: Secure File Sharing System
 
-This repository contains the implementation of a secure, distributed file sharing system for CS161. The system provides end-to-end encryption, secure file sharing with access control, and efficient large file handling.
+This repository contains the implementation of a secure, distributed file sharing system. The system provides end-to-end encryption, secure file sharing with access control, and efficient large file handling.
 
 ## Overview
 
@@ -28,7 +28,7 @@ The system uses a 4-layer architecture:
 
 ## Testing
 
-For comprehensive documentation, see the Project 2 Spec (https://cs161.org/proj2/).
+For comprehensive documentation, see the project spec (hidden for privacy, ask developer for resource).
 
 Write your implementation in `client/client.go` and your integration tests in `client_test/client_test.go`. Optionally, you can also use `client/client_unittest.go` to write unit tests (e.g: to test your helper functions).
 
